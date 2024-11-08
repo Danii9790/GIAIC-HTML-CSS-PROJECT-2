@@ -9,11 +9,12 @@ header div{
 }
 header div .contact-icons{
   display: flex;
-  padding-left: 38rem;
+  padding-left: 39rem;
   gap: 30px;
   font-size: 13px;
-  justify-content: center;
   font-weight: bold;
+  align-items: center;
+ 
 }
 header div .contact-icons button{
   background-color:#6aaa1c  ;
